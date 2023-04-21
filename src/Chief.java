@@ -11,6 +11,7 @@ public class Chief {
         this.name = name;
     }
 
+    //Рассчитываем настроение начальника
     public int getMood() {
         return (int) (Math.random() * 6);
     }
