@@ -1,3 +1,5 @@
+package main.java.com.zaychikov;
+
 public class Workers {
 
     private String name;

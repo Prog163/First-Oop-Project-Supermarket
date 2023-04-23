@@ -1,3 +1,5 @@
+package main.java.com.zaychikov;
+
 public class Bank {
 
     private int money;
